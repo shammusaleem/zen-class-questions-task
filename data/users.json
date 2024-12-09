@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Sam",
+      "email": "sam@example.com",
+      "course": "MERN Stack",
+      "batch": "FSD56WE-T",
+      "mentor": {
+        "name": "Sanjay",
+        "email": "sanjay@example.com"
+      }
+    }
+  ]

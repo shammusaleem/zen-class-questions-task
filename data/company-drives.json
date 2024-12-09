@@ -1,0 +1,22 @@
+[
+    {
+      "company": "TCS",
+      "date": "2020-10-25",
+      "students": ["sam@example.com"]
+    },
+    {
+      "company": "TCS",
+      "date": "2023-10-02",
+      "students": ["sam@example.com"]
+    },
+    {
+      "company": "TCS",
+      "date": "2020-10-22",
+      "students": ["sam@example.com"]
+    },
+    {
+      "company": "TCS",
+      "date": "2023-10-02",
+      "students": ["sam@example.com"]
+    }
+  ]

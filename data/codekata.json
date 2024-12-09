@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Odd/Even",
+      "description": "Given a number, find whether it is Odd or Even",
+      "points": 10,
+      "userId": 1,
+      "isCompleted": false
+    },
+    {
+      "name": "Odd/Even",
+      "description": "Given a number, find whether it is Odd or Even",
+      "points": 10,
+      "userId": 2,
+      "isCompleted": true
+    }
+  ]
